@@ -1,0 +1,18 @@
+* { 
+    color: #E59500;
+ } 
+H1 { 
+    color: #02040F; 
+}
+body {
+    background-color: #E5DADA;
+}
+ul {
+    list-style-type: none;
+    margin: 30px;
+    padding: 50px;
+  }
+  p {
+    font-family: "Times New Roman", Times, serif;
+  }
+
